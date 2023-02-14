@@ -1,0 +1,13 @@
+.logos{
+    height: 50px;
+    align-items: center;
+    justify-content: space-between;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.footer-logo{
+    max-width: 50px;
+}
